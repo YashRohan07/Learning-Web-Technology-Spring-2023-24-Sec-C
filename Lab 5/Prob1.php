@@ -41,5 +41,3 @@
     </form>
 </body>
 </html>
-
-write the backend code of this login page with php
