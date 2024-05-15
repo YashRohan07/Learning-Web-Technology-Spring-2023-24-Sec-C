@@ -48,6 +48,9 @@ Admin Profile
 Admin Profile Edit
 ![Admin Edit Profile](https://github.com/YashRohan07/Web-Development-Project/assets/111037103/cc5ce0fe-d1d8-438f-879f-54256db53a9e)
 
+Upload Documents
+![Upload Documents](https://github.com/YashRohan07/Learning-Web-Technology-Spring-2023-24-Sec-C/assets/111037103/3f5063e6-4873-4f49-beec-6ad87b090f60)
+
 User Management
 ![User Management](https://github.com/YashRohan07/Web-Development-Project/assets/111037103/51fde1c3-2f9c-46c5-96ec-8546418e6cbf)
 
